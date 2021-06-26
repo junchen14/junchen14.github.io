@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jun Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "From Inspiration, Discovery"
   location         : "KAUST, Saudi Arabia"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jun-chen-54a090198/"
+  linkedin         : "jun-chen-54a090198/"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
