@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Jun Chen's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
