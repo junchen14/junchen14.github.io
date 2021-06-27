@@ -14,3 +14,11 @@ University of Science and Technology and advised by [Mohamed Elhoseiny](http://w
 , Natural language processing. 
 
 
+## Recent News
+We have a paper accepted in NeuRIPS 2020 \
+We have a paper accepted in Bioinfomatic 2020 \
+We have a papper accepted iin Bioinfomatics 2021 \
+
+
+## Teaching
+I am a teaching assistant in CS294D and CS394D courses. 
