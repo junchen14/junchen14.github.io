@@ -10,4 +10,3 @@ citation: 'Wang Liu-wei, Senay Kafkas, Jun Chen, Nicholas J Dimonaco, Jesper Teg
 
 [Download paper here](https://repository.kaust.edu.sa/handle/10754/668043)
 
-Recommended citation: 'Wang Liu-wei, Senay Kafkas, Jun Chen, Nicholas J Dimonaco, Jesper Tegner, Robert Hoehndorf. (2021). &quot; DeepViral: prediction of novel virus-host interactions from protein sequences and infectious disease phenotypes &quot; <i>Bioinformatics </i>.'

@@ -18,7 +18,7 @@ Education
 Internship experience
 ======
 * Chinese Academy of Science Intenrship August-November 2017
-* Visiting Scholar in University of Birmingham and Cambridge June-September 2019
+* Visiting Scholar in University of Birmingham and University of Cambridge in June-September 2019
 
 
 

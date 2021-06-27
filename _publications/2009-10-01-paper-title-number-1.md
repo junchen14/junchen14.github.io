@@ -10,4 +10,3 @@ citation: Jun Chen, Azza Althagafi, Robert Hoehndorf. (2021). "Predicting candid
 
 [Download paper here](https://academic.oup.com/bioinformatics/article/37/6/853/5922810?login=true)
 
-Recommended citation: Jun Chen, Azza Althagafi, Robert Hoehndorf. (2021). "Predicting candidate genes from phenotypes, functions, and anatomical site of experssion." <i>Bioinformatics</i>. 
