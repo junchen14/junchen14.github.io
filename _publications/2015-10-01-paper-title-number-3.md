@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "DeepViral: prediction of novel virus-host interactions from protein sequences and infectious disease phenotypes"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2021-03-08
+venue: 'Bioinformatics'
+paperurl: 'https://repository.kaust.edu.sa/handle/10754/668043'
+citation: 'Wang Liu-wei, Senay Kafkas, Jun Chen, Nicholas J Dimonaco, Jesper Tegner, Robert Hoehndorf. (2021). &quot; DeepViral: prediction of novel virus-host interactions from protein sequences and infectious disease phenotypes &quot; <i>Bioinformatics 1</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://repository.kaust.edu.sa/handle/10754/668043)
 
-Recommended citation: Jun Chen, Azza Althagafi, Robert Hoehndorf. (2021). "Paper Title Number 3." <i>Bioinformatics 1</i>. 1(3).
+Recommended citation: 'Wang Liu-wei, Senay Kafkas, Jun Chen, Nicholas J Dimonaco, Jesper Tegner, Robert Hoehndorf. (2021). &quot; DeepViral: prediction of novel virus-host interactions from protein sequences and infectious disease phenotypes &quot; <i>Bioinformatics 1</i>.'
