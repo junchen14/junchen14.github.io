@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
+title: "VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning"
+collection: publication
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2021-2-20
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/pdf/2102.10407.pdf'
+citation: 'Jun Chen, Han Guo, Kai Yi, Boyang Li, Mohamed Elhoseiny. (2021). &quot;VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning&quot; <i>arXiv</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://arxiv.org/pdf/2102.10407.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation:  'Jun Chen, Han Guo, Kai Yi, Boyang Li, Mohamed Elhoseiny. (2021). &quot;VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning&quot; <i>arXiv</i>.'
