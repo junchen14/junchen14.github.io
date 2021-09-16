@@ -14,7 +14,7 @@ University of Science and Technology and advised by [Mohamed Elhoseiny](http://w
 
 
 ## Recent News
-I will host the LTVRR workshop in ICCV 2021 \
+I will host the LTVRR workshop with my team in ICCV 2021 \
 We have a paper accepted in ICCV 2021 \
 We have a paper accepted in NeuRIPS 2020 \
 We have a paper accepted in Bioinformatic 2020 \
