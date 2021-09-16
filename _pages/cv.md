@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Liverpool University, 2014
-* M.S. in King Abdullah University of Science and Technology, 2018
+* B.S. in Liverpool University, (2014-2018)
+* M.S. in King Abdullah University of Science and Technology, (2018-2020)
 * Ph.D in King Abdullah University of Science and Technology, (2020 - Now)
 
 Internship experience
@@ -35,5 +35,6 @@ Teaching
 * Teaching Assistant 
     * CS294D at KAUST
     * CS394D at KAUST
+    * CS326 at KAUST
   
 
