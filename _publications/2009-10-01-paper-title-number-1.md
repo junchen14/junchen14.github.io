@@ -8,5 +8,4 @@ paperurl: 'https://academic.oup.com/bioinformatics/article/37/6/853/5922810?logi
 citation: Jun Chen, Azza Althagafi, Robert Hoehndorf. (2021). "Predicting candidate genes from phenotypes, functions, and anatomical site of experssion." <i>Bioinformatics</i>. 
 ---
 
-[Download paper here](https://academic.oup.com/bioinformatics/article/37/6/853/5922810?login=true)
 
