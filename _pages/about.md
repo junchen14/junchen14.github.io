@@ -9,17 +9,23 @@ redirect_from:
 ---
 
 ## About Me
-Jun Chen is currently a PhD studnet in [Vision-CAIR](https://cemse.kaust.edu.sa/vision-cair) research group from King Abdullah 
-University of Science and Technology and advised by [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/). Previously he is a master student in [BORG group](https://cemse.kaust.edu.sa/borg) advised by [Robert Hoehndorf](https://leechuck.de/). I am passionate in Multi-modal researches including image-language and video-language and Efficient Transformer.
+Jun Chen is currently a PhD student in [Vision-CAIR](https://cemse.kaust.edu.sa/vision-cair) research group from King Abdullah 
+University of Science and Technology and he is advised by [Prof. Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/). He is passionate in Multi-modal learning, self-supervised learning and large-scale pretraining model.
 
 
 ## Recent News
-I will host the LTVRR workshop with my team in ICCV 2021 \
-We have a paper accepted in ICCV 2021 \
+Our papper RelTransformer get accepted in CVPR 2022 \
+Our paper VisualGPT get accepted in CVPR 2022 \
+Our paper 3DRefTransformer get accepted in WACV 2022 \
+I will host the Long-tail Visual Relationship Detection workshop with my team in ICCV 2021 \
+Our paper LTVRR accepted in ICCV 2021 \
+Our paper DeepViral accepted iin Bioinformatics 2021 \
 We have a paper accepted in NeuRIPS 2020 \
-We have a paper accepted in Bioinformatic 2020 \
-We have a papper accepted iin Bioinformatics 2021 
+We have a paper accepted in Bioinformatic 2020
 
+## Academic Community Service
+He serves as a reviewer in CVPR 2022 \
+He serves as a reviewers in ECCV 2022
 
 ## Teaching
 I am a teaching assistant in CS294D, CS394D CS326 courses in KAUST. 
