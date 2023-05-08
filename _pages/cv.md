@@ -19,6 +19,7 @@ Internship experience
 ======
 * Chinese Academy of Science Internship August-November 2017
 * Visiting Scholar in University of Birmingham and University of Cambridge in June-September 2019
+* Research Scientist Intern in Meta (Melo Park) August-December 2022
 
 
 
